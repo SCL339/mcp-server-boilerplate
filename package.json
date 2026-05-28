@@ -1,10 +1,10 @@
 {
   "name": "scl339-mcp-server",
   "version": "1.0.0",
-  "description": "MCP (Model Context Protocol) server scaffolding CLI — generate production-ready MCP servers in seconds with stdio and HTTP transport support",
+  "description": "MCP (Model Context Protocol) server scaffolding CLI. Generate production-ready MCP servers in seconds with stdio and HTTP transport support.",
   "main": "index.js",
   "bin": {
-    "scl339-mcp-server": "./bin/scl339-mcp-server.js"
+    "scl339-mcp-server": "bin/scl339-mcp-server.js"
   },
   "files": [
     "bin/",
@@ -15,17 +15,10 @@
   "keywords": [
     "mcp",
     "model-context-protocol",
-    "claude-code",
-    "ai-agents",
     "cli",
     "developer-tools",
     "scaffolding",
-    "boilerplate",
-    "server-template",
-    "cursor",
-    "windsurf",
-    "ai-coding",
-    "scal339"
+    "scl339"
   ],
   "license": "MIT",
   "repository": {
