@@ -76,7 +76,7 @@ my-mcp-server/
 
 ## Related SCL339 Projects
 
-- [scl339-codebase-analyzer](https://github.com/shuchengle/codebase-analyzer) — Analyze your codebase and generate beautiful HTML statistics reports
+- [scl339-codebase-analyzer](https://github.com/SCL339/codebase-analyzer) — Analyze your codebase and generate beautiful HTML statistics reports
 
 ## Sponsorship
 
@@ -88,4 +88,4 @@ Your support helps maintain and improve this project!
 
 ## License
 
-MIT © shuchengle
+MIT © SCL339
