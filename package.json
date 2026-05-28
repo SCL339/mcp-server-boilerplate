@@ -1,0 +1,48 @@
+{
+  "name": "scl339-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP (Model Context Protocol) server scaffolding CLI — generate production-ready MCP servers in seconds with stdio and HTTP transport support",
+  "main": "index.js",
+  "bin": {
+    "scl339-mcp-server": "./bin/scl339-mcp-server.js"
+  },
+  "files": [
+    "bin/",
+    "templates/",
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude-code",
+    "ai-agents",
+    "cli",
+    "developer-tools",
+    "scaffolding",
+    "boilerplate",
+    "server-template",
+    "cursor",
+    "windsurf",
+    "ai-coding",
+    "scal339"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuchengle/mcp-server-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shuchengle/mcp-server-boilerplate/issues"
+  },
+  "homepage": "https://github.com/shuchengle/mcp-server-boilerplate#readme",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.0",
+    "ora": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
