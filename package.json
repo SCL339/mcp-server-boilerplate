@@ -1,5 +1,5 @@
 {
-  "name": "scl339-mcp-server",
+  "name": "scl339-mcp-gen",
   "version": "1.0.0",
   "description": "MCP (Model Context Protocol) server scaffolding CLI. Generate production-ready MCP servers in seconds with stdio and HTTP transport support.",
   "main": "index.js",
